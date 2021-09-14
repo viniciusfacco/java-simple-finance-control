@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?><root>
+    <name>default</name>
+    <balance>24.5</balance>
+    <in><deposit when="29/12/2014" why="teste">10.00</deposit><deposit when="29/12/2014" why="teste">1500.00</deposit><deposit when="29/12/2014" why="teste">10.00</deposit><deposit when="29/12/2014" why="hgfj">50.00</deposit><deposit when="29/12/2014" why="dsfas">50.00</deposit></in>   
+    <out><withdraw when="29/12/2014" why="teste">45.50</withdraw><withdraw when="29/12/2014" why="ÃÂ§lj">50.00</withdraw><withdraw when="29/12/2014" why="lk~Ã§">1500.00</withdraw></out>
+</root>
